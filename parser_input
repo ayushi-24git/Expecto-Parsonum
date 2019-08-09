@@ -1,0 +1,10 @@
+    1    1 Identifier      count
+    1    7 Op_assign     
+    1    9 Integer              6
+    1   10 Semicolon     
+    2    1 Keyword_print 
+    2    6 LeftParen     
+    2    7 Identifier      count
+    2   12 RightParen    
+    2   13 Semicolon     
+    8    1 End_of_input  

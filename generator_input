@@ -1,0 +1,11 @@
+Sequence      
+Sequence      
+;
+Assign        
+Identifier    count
+Integer       6
+Sequence      
+;
+Prti          
+Identifier    count
+;
